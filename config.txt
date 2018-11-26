@@ -1,0 +1,6 @@
+﻿token=NTE2MzEzNjM4NjAwOTY2MTY1.Dtx2VA.l6STqjyTYVe5ndqTDLQBRiS_PmE
+owner=465811762386567168
+prefix= C
+game= Cplay
+stayinchannel=true
+songinstatus=true 
